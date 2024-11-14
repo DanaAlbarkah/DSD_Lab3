@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 14 16:37:32 2024
+# Process ID: 107195
+# Current directory: /home/it/Chip_Design/CommonCore/DigitalDesign/Lab3/Lab3/Lab3.runs/synth_1
+# Command line: vivado -log sev_seg_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sev_seg_top.tcl
+# Log file: /home/it/Chip_Design/CommonCore/DigitalDesign/Lab3/Lab3/Lab3.runs/synth_1/sev_seg_top.vds
+# Journal file: /home/it/Chip_Design/CommonCore/DigitalDesign/Lab3/Lab3/Lab3.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source sev_seg_top.tcl -notrace
